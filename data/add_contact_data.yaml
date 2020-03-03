@@ -1,0 +1,7 @@
+test_add_contact:
+  test_add_contact_001:
+    name: "zhangsan"
+    phone: "155"
+#  test_add_contact_002:
+#    name: "wangwu"
+#    phone: "156"
